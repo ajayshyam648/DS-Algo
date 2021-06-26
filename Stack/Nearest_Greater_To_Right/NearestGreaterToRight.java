@@ -1,6 +1,6 @@
 import java.util.*;
  
-class NextGreaterElement {
+class NextGreaterToRight {
  
     public static void printNGE(int[] arr)
     {
